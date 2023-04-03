@@ -1,3 +1,5 @@
+//Program to check if sum of any two elements of an array is 10
+
 package main
 
 import "fmt"
