@@ -1,3 +1,5 @@
+//Program to Print common elements in two arrays
+
 package main
 
 import "fmt"
